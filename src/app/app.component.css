@@ -1,0 +1,12 @@
+nav{
+    display: flex;
+    column-gap: 2.5rem;
+    margin-left: 2rem;
+    margin-top: 1rem;
+}
+
+a{
+    text-decoration: none;
+    padding: 5px 10px;
+    border: 1px solid black;
+}
